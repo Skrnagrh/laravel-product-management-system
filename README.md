@@ -91,6 +91,7 @@ Silakan fork project ini, lakukan perbaikan, dan kirimkan pull request! Kontribu
 | <img src="/public/tampilan/3.jpeg" alt="Full" width="100%"> | <img src="/public/tampilan/4.jpeg" alt="Full" width="100%"> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                   Dashboard Page                   |                   Category Page                    |
+
 | <img src="/public/tampilan/5.jpeg" alt="Desktop" width="100%"> | <img src="/public/tampilan/6.jpeg" alt="Pad" width="100%"> |
 | :-------------------------------------------------------------: | :---------------------------------------------------------: |
 |                        Supplier Page                         |                        Product Page                         |
